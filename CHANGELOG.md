@@ -1,8 +1,23 @@
 # Changelog
 
-### 3.0.1 - [#37](https://github.com/openfisca/country-template/pull/37)
+### 3.1.1 - [#44](https://github.com/openfisca/country-template/pull/44)
 
-* Declare package compatible with OpenFisca Core v19
+* Technical improvement.
+* Impacted areas: deployment.
+* Details:
+  - Continuously deploy Python3 package.
+
+### 3.1.0 - [#41](https://github.com/openfisca/country-template/pull/41)
+
+* Make package compatible with Python 3
+
+### 3.0.2 - [#37](https://github.com/openfisca/country-template/pull/37)
+
+* Declare package compatible with OpenFisca Core v23
+
+### 3.0.1 - [#39](https://github.com/openfisca/country-template/pull/39)
+
+* Declare package compatible with OpenFisca Core v22
 
 # 3.0.0 - [#34](https://github.com/openfisca/country-template/pull/34)
 
@@ -19,7 +34,7 @@
 * Minor change.
 * Impacted areas: no functional impact.
 * Details:
-  - Improved spelling
+  - Improve spelling
 
 ## 2.1.0 - [#29](https://github.com/openfisca/country-template/pull/29) [#30](https://github.com/openfisca/country-template/pull/30)
 
